@@ -28,7 +28,6 @@ This UI design is inspired by **modern e-commerce product cards**, with minimal 
 
 ---
 
-## 📁 Folder Structure
 
 
 ---
