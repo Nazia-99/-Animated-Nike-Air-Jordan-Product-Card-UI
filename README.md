@@ -4,6 +4,10 @@
 This design features **hover effects** where the image rotates and lifts, the description appears, and a “Buy Now” button fades in smoothly — perfect for modern e-commerce websites.
 
 ---
+## 🚀 Live Demo
+
+🔗 [View Live](https://nazia-99.github.io/-Animated-Nike-Air-Jordan-Product-Card-UI/) 
+
 
 ## 🎨 What You’ll Learn
 
