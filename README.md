@@ -29,4 +29,27 @@ This UI design is inspired by **modern e-commerce product cards**, with minimal 
 ---
 
 ## 📁 Folder Structure
+<pre> nike-product-card/ ├── index.html ├── style.css ├── screenshot.png └── README.md </pre>
+
+---
+
+## 📸 Screenshot
+
+![Nike Product Card Preview](./screenshot.png)
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/nike-product-card.git
+
+
+📬 Stay Connected
+📺 YouTube: Code With Nazia
+🧠 Follow for weekly HTML, CSS, and frontend UI projects!
+
+📄 License
+This project is licensed under the MIT License.
 
