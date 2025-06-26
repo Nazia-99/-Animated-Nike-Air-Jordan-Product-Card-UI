@@ -29,7 +29,7 @@ This UI design is inspired by **modern e-commerce product cards**, with minimal 
 ---
 
 ## 📁 Folder Structure
-<pre> nike-product-card/ ├── index.html ├── style.css ├── screenshot.png └── README.md </pre>
+
 
 ---
 
